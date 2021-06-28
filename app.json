@@ -1,0 +1,12 @@
+{
+  "name": "reactNativeNavsintype",
+  "displayName": "reactNativeNavsintype",
+  "expo": {
+    "name": "reactNativeNavsintype",
+    "slug": "reactNativeNavsintype",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
